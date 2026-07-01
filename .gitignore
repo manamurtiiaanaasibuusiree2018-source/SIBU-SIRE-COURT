@@ -1,0 +1,8 @@
+# Ignore Microsoft Office temporary files
+~$*
+*.docx
+*.doc
+
+# Ignore operating system files
+Thumbs.db
+.DS_Store
