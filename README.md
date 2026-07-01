@@ -1,4 +1,4 @@
-# Sibuu Sire Court
+# sibu sire court
 
 This folder contains a simple static website for Sibuu Sire Court.
 
