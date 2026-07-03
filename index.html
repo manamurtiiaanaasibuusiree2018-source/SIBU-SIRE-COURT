@@ -20,7 +20,8 @@
       body {
         margin: 0;
         font-family: Arial, sans-serif;
-        background: linear-gradient(135deg, #fff7e0, var(--bg));
+        background: url('foto.jpg') center/cover no-repeat fixed;
+        background-color: var(--bg);
         color: var(--text);
         display: flex;
         justify-content: center;
@@ -97,6 +98,12 @@
         font-size: 14px;
         color: #5b6b80;
         text-align: center;
+        position: relative;
+        padding: 20px;
+        background: url('foto.jpg') center/60px no-repeat;
+        opacity: 0.9;
+        filter: drop-shadow(0 8px 16px rgba(0, 0, 0, 0.15));
+        border-radius: 10px;
       }
     </style>
   </head>
